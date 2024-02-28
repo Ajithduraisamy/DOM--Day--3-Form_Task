@@ -1,0 +1,85 @@
+body{
+    background-color: rgb(243, 241, 241);
+}
+.container{
+    margin-top: 25px;
+}
+#firstname{
+    width: 350px;
+    margin-bottom: 25px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+#lastname{
+    width: 350px;
+    margin-bottom: 25px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+#addressline1{
+    width: 350px;
+    margin-bottom: 25px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+#addressline2{
+    width: 350px;
+    margin-bottom: 25px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+#pin{
+    width: 350px;
+    margin-bottom: 25px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+#state{
+    width: 350px;
+    margin-bottom: 25px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+#country{
+    width: 350px;
+    margin-bottom: 25px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.btn-secondary{
+    width: 350px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+#male{
+    margin: 0px 10px;
+}
+#female{
+    margin: 0px 10px;
+    margin-bottom: 25px;
+}
+#northindian{
+    margin-left: 5px;
+    margin-right: 5px;
+}
+#southindian{
+    margin-left: 5px;
+    margin-right: 5px;
+}
+#chinese{
+    margin-left: 5px;
+    margin-right: 5px;
+}
+#japanese{
+    margin-left: 5px;
+    margin-right: 5px;
+}
+#seafood{
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-bottom: 25px;
+}
+span{
+    font-style: italic;
+    font-size: small;
+}
